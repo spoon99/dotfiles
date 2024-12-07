@@ -1,0 +1,1 @@
+git clone --recursive https://github.com/spoon99/dotfiles.git "$HOME/dotfiles"
